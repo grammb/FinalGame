@@ -1,0 +1,79 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "C:/Users/Graham/Desktop/CMPM120/Mappy/assets/tilemap02.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 1.3525625000000001,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 799.9630331315558,
+                "y": 160.43620904764106
+            }
+        },
+        "C:/Users/Graham/Desktop/CMPM120/Mappy/assets/tilemap02.tmx#colored_packed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Graham/Desktop/CMPM120/Mappy/assets/tilemap04.tmx": {
+            "scale": 2.2542708333333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.4214223002634,
+                "y": 160.1404741000878
+            }
+        },
+        "C:/Users/Graham/Desktop/CMPM120/Mappy/assets/tilemap04.tmx#colored_packed": {
+            "scaleInDock": 1
+        },
+        "runner_final.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 3.2121874999999998,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 203.28825761260825,
+                "y": 169.66630995233
+            }
+        },
+        "runner_final.tmx#characters_packed": {
+            "scaleInDock": 1
+        },
+        "runner_final.tmx#tiles_packed": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Graham/Desktop/CMPM120/EndlessRunner/assets",
+    "last.imagePath": "C:/Users/Graham/Desktop/CMPM120/EndlessRunner/assets",
+    "map.height": 40,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 60,
+    "openFiles": [
+    ],
+    "project": "FinalProject.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "C:/Users/Graham/Desktop/CMPM120/Mappy/assets/tilemap04.tmx",
+        "C:/Users/Graham/Desktop/CMPM120/Mappy/assets/tilemap02.tmx",
+        "runner_final.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 24,
+        "width": 24
+    }
+}
